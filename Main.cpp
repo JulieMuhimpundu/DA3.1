@@ -1,3 +1,25 @@
+/*---- Highlander Test ----
+There can be only one. But now there are 1
+Immortal
+There can be only one. But now there are 2
+Murderous
+There can be only one. But now there are 1
+Immortal
+
+---- SuperIntArray Test ----
+Original array: 4 8 15 16 23 42
+Changing index 2 to 99...
+Modified array: 4 8 99 16 23 42
+Max: 99
+Min: 4
+Mean: 32
+
+---- Copy Constructor Test ----
+Original: 1 2 3
+Copy: 999 2 3*/
+
+
+
 #include <iostream>
 #include "Highlander.h"
 #include "SuperIntArray.h"
